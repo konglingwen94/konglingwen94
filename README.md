@@ -1,6 +1,6 @@
 ### Hi there, I'm konglingwen 👋
 
-Now I'm looking for a job as a web frontend developer.
+Now I'm looking for a job as a web frontend or full-stack developer.
 
 [掘金](https://juejin.cn/user/2154698523818328/activities) / [知乎](https://www.zhihu.com/people/kong-ling-wen-55) / [Segmentfault](https://segmentfault.com/u/konglingwen94) / [简书](https://www.jianshu.com/u/a2c370515a15)
 
