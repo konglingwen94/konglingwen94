@@ -6,6 +6,10 @@
 
 **Languages and Tools:**  
 
+HTML，CSS，JavaScript，web API，Vue，Vite
+
+TypeScript，Node.js
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/46000016/105966118-350d0d80-60bf-11eb-82db-ef961465fb4b.png"></code>
